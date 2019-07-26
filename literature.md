@@ -11,7 +11,7 @@
 _Henning Perl et al. 2015._
 <details><summary>bib</summary>
 <p>
-```bib
+```tex
 @inproceedings{perl2015vccfinder,
   title={VCCFinder}: {F}inding potential vulnerabilities in open-source projects to assist code audits},
   author={Perl, Henning and Dechand, Sergej and Smith, Matthew and Arp, Daniel and Yamaguchi, Fabian and Rieck, Konrad and Fahl, Sascha and Acar, Yasemin},
