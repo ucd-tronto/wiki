@@ -1,10 +1,12 @@
 # Project-Relevant Literature
 
+##### Table of Contents
+- [2015](#2015)
+  * [VCCFinder](#vccfinder)
+
 ## 2015
 
-<a name="vccfinder"/>
 ### VCCFinder
-</a>
 
 _Henning Perl et al. 2015._
 <details><summary>bib</summary>
