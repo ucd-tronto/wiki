@@ -3,6 +3,8 @@
 #### Table of Contents
 - [2015](#2015)
   * [VCCFinder](#vccfinder)
+- [2016](#2016)
+  * [SV-AF](#sv-af)
 
 ## 2015
 
@@ -46,5 +48,4 @@ _Sultan S. Alqahtani, Ellis E. Eghan, & Juergen Rilling_
 
 Links existing resources, specifically the National Vulnerability Database and the Maven build repository, showing that 750 releases are directly affected by known vulnerabilities (less than 0.1%), and 400k are affected through dependencies. The general approach is to populate two ontologies corresponding to the NVD and Maven, then align the ontologies (i.e., determine whether a release in one ontology is the `sameAs` a release in the other ontology). Alignment is achieved through Probabilistic Soft Logic (PSL), scoring releases as more similar if they have similar names and version numbers, for example. Once the ontologies are aligned, OWL reasoning is straightforward to reveal projects dependent on direclty vulnerable projects. The approach is sound, but the authors note internal validity problems from noise and external validity problems from their reliance on well-structured, manually annotated data.
 
-## 2017
 
