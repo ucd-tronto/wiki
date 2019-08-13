@@ -1,6 +1,10 @@
 # Project-Relevant Literature
 
 #### Table of Contents
+- [2006](#2006)
+  * [Large-Scale Vulnerability Analysis](#large-scale-vulnerability-analysis)
+- [2013](#2013)
+  * [PACE](#pace)
 - [2015](#2015)
   * [VCCFinder](#vccfinder)
 - [2016](#2016)
@@ -10,7 +14,6 @@
   * [API-security vulnerability links](#api-security-vulnerability-links)
 - [2018](#2018)
   * [Vulnerability by git history](#vulnerability-by-git-history)
-
 ## 2006
 
 ### Large-Scale Vulnerability Analysis
