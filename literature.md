@@ -23,6 +23,14 @@ _Stefan Frei, Martin May, Ulrich Fiedler, Bernhard Plattner_
 <details><summary>bib</summary>
 
 ```tex
+@inproceedings{frei2006large,
+  title={Large-scale vulnerability analysis},
+  author={Frei, Stefan and May, Martin and Fiedler, Ulrich and Plattner, Bernhard},
+  booktitle={Proceedings of the 2006 SIGCOMM workshop on Large-scale attack defense},
+  pages={131--138},
+  year={2006},
+  organization={ACM}
+}
 ```
 
 </details>
@@ -41,10 +49,19 @@ Notes:
 ### PACE
 **PACE: Pattern Accurate Computationally Efficient Bootstrapping for Timely Discovery of Cyber-Security Concepts**
 
-_Oak Ridge et al._
+_Nikki McNeil, Robert A. Bridges, Michael D. Iannacone, Bogdan Czejdo, Nicolas Perez, & John R. Goodall_
 <details><summary>bib</summary>
 
 ```tex
+@inproceedings{mcneil2013pace,
+  title={Pace: Pattern accurate computationally efficient bootstrapping for timely discovery of cyber-security concepts},
+  author={McNeil, Nikki and Bridges, Robert A and Iannacone, Michael D and Czejdo, Bogdan and Perez, Nicolas and Goodall, John R},
+  booktitle={2013 12th International Conference on Machine Learning and Applications},
+  volume={2},
+  pages={60--65},
+  year={2013},
+  organization={IEEE}
+}
 ```
 
 </details>
